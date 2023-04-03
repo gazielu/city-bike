@@ -1,0 +1,17 @@
+**/src/test/*
+*.csv
+*.env
+**/src/.ipynb_checkpoints/*
+**/utils/.ipynb_checkpoints/*
+data
+**/src/utils/__pycache__/*
+.ipynb_checkpoints/*
+
+
+
+
+
+
+
+
+
